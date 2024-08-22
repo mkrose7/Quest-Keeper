@@ -1,0 +1,64 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">QuestKeeper</string>
+    <string name="attention">Attention</string>
+    <string name="back_button">Back</string>
+    <string name="delete">Delete</string>
+    <string name="delete_question">Are you sure you want to delete?</string>
+    <string name="no_item_description">\nNo Side Quests have been added.\nClick Side Quest to add.</string>
+    <string name="edit_item_title">Edit Item</string>
+    <string name="sideQuestName">Side Quest</string>
+    <string name="item_detail_title">Item Details</string>
+    <string name="item_entry_title">Add Item</string>
+    <string name="skill_entry_title">Add Skill</string>
+    <string name="sideQuestName_req">Name of Side Quest*</string>
+    <string name="difficulty_req">Difficulty Level*</string>
+    <string name="no">No</string>
+    <string name="price">Price</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="in_stock">%d in stock</string>
+    <string name="category_req">Category*</string>
+    <string name="save_action">Save</string>
+    <string name="sell">Sell</string>
+    <string name="returnItemButton">Return</string>
+    <string name="yes">Yes</string>
+    <string name="required_fields">*required fields</string>
+    <string name="category">Category</string>
+    <string name="toBeDone_req">When Task Needs to be Done*</string>
+    <string name="extraInfo">Notes</string>
+    <string name="extraNotes">Notes</string>
+    <string name="toBeDone">To be Done By</string>
+    <string name="experiencePoints">Total Experience Points: </string>
+    <string name="XP">XP</string>
+    <string name="complete_action">Complete</string>
+    <string name="congrats">Congrats!</string>
+    <string name="completed_text">A side quest has been completed</string>
+    <string name="ok">Ok</string>
+    <string name="charisma">Charisma</string>
+    <string name="constitution">Constitution</string>
+    <string name="dexterity">Dexterity</string>
+    <string name="wisdom">Wisdom</string>
+    <string name="intelligence">Intelligence</string>
+    <string name="strength">Strength</string>
+    <string name="dungeon_reminders">Dungeon Reminders:</string>
+    <string name="strength_quote">When there is no struggle there is no strength.</string>
+    <string name="int_quote">The beginning of knowledge is the discovery of something we don\'t understand.</string>
+    <string name="wise_quote">A wise man never knows all, only fools know everything.</string>
+    <string name="dex_quote">Adaptability is the simple secret of survival.</string>
+    <string name="const_quote">Take care of your body, it is the only place you have to live.</string>
+    <string name="charisma_quote">Charisma is the sparkle in people that money can\'t buy.</string>
+</resources>
